@@ -1,0 +1,28 @@
+body{
+    background-image: url(../images/background.png)
+}
+
+.card-body{
+    background-color: orange;
+    color:white;
+
+}
+
+.info{
+    background-color:peachpuff;
+    color:green;
+}
+
+.target{
+    background-color: aquamarine;
+    color: purple;
+}
+
+.wins{
+    background-color: aqua;
+
+}
+
+.score{
+    background-color:blue;
+}
